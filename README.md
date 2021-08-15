@@ -28,3 +28,9 @@ Uso de punterso en funciones
 
 ## scanf.c
 Uso de punteros con la función scanf
+
+## incPointer.c 
+Demustra como sumar el valor de un puntero
+
+## wrongPointer.c 
+Demustra como con operaciones aritméticas en los punteros nos podemos dirigir a otra dirección de memoria que ya están ocupadas.
