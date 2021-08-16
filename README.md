@@ -34,3 +34,9 @@ Demustra como sumar el valor de un puntero
 
 ## wrongPointer.c 
 Demustra como con operaciones aritméticas en los punteros nos podemos dirigir a otra dirección de memoria que ya están ocupadas.
+
+## arrayDefinition.c
+Se muestra el uso de los arrays
+
+## arrayOutOfDounds.c 
+Muestra que pasa cuando uno intenta acceder a un espacio de memoria de un array que no está resrvado para el array
