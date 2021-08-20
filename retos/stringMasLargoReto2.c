@@ -8,7 +8,6 @@ int main(int argc, const char *argv[])
     int position;
 
     for(int i = 1; i < argc; i++) {
-        // printf("%li +1 %li\n", strlen(argv[i]), strlen(/**(argv + i + 1)*/ argv[i + 1]));
         analizeSize = strlen(argv[i]);
         if(longerSize < analizeSize) {
             position = i;
